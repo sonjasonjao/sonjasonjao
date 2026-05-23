@@ -1,6 +1,6 @@
 ## Hey! I'm Sonja 👋
 
-I'm a developer student at Hive Helsinki, a coding school part of the 42 Network, with a background in education and qualitative research. After building a foundation in C and C++, I'm currently working on the final group project of the studies, building a fullstack web app.
+I'm a developer student at Hive Helsinki, a coding school part of the 42 Network. After building a foundation in C and C++, I'm currently working on the final group project of the studies, building a fullstack web app. My background is in education and research.
 <br><br>
 Lately I've been focusing on frontend topics, learning the fundamentals of HTML, CSS, and JavaScript and moving on to React and TypeScript. I'm particularly interested in diving deeper into UI/UX and accessibility topics.
 <br><br>
@@ -13,3 +13,4 @@ In this profile you'll find both solo and group projects I have worked on at Hiv
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=flat-square\&logo=gnu\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
