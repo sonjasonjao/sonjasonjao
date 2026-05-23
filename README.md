@@ -2,7 +2,7 @@
 
 I'm a developer student at Hive Helsinki, a coding school part of the 42 Network, with a background in education. After building a foundation in C and C++, I'm currently working on the final group project of the studies, building a fullstack web app.
 <br><br>
-Lately I've been focusing on frontend topics, learning the fundamentals of HTML, CSS, and JavaScript and moving on to React and TypeScript. I'm particularly interested in diving deeper into accessibility.
+Lately I've been focusing on frontend topics, learning the fundamentals of HTML, CSS, and JavaScript and moving on to React and TypeScript. I'm particularly interested in diving deeper into UI/UX and accessibility topics.
 <br><br>
 In this profile you'll find both solo and group projects I have worked on at Hive alongside some personal projects.
 <br><br>
