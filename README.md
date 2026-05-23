@@ -1,4 +1,4 @@
-## Hey! I'm Sonja 👋
+## Hi, I'm Sonja 👋
 
 I'm a developer student at Hive Helsinki, a coding school part of the 42 Network. After building a foundation in C and C++, I'm currently working on the final group project of the studies, building a fullstack web app. My background is in education and research.
 <br><br>
